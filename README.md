@@ -1,16 +1,7 @@
 # cloudbubble
 
-A new Flutter project.
+A Flutter Game.
 
-## Getting Started
+![video_2022-08-06_09-40-06](https://user-images.githubusercontent.com/74858421/183233129-91e88276-93d9-4555-bd7a-469386d76881.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
